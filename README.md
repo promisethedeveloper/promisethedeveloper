@@ -6,7 +6,6 @@
 * :seedling: I'm currently expanding my knowledge of web technologies by exploring new frameworks, design patterns and programming languages.
 * :handshake: I'm looking to collaborate on any cool ideas.
 * :thinking: I'm looking for help with project ideas.
-* :man_technologist: I'm open to work.
-* :mailbox: You can reach me by messages on LinkedIn: [https://www.linkedin.com/in/promisemorka/](https://www.linkedin.com/in/promisemorka/) or by email: <onyekamorka06@gmail.com>
+* :mailbox: You can reach me by messages on LinkedIn: [https://www.linkedin.com/in/promisemorka/](https://www.linkedin.com/in/promisemorka/)
 
 Thanks for checking out my profile!
